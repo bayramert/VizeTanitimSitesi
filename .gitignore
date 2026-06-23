@@ -1,0 +1,19 @@
+# İşletim sistemi gizli dosyaları (Windows & Mac)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editör ve IDE ayar klasörleri (VS Code, WebStorm vb.)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# (Eğer ileride projeye eklersen) Node.js modülleri ve log dosyaları
+node_modules/
+npm-debug.log
+yarn-error.log
